@@ -1,5 +1,7 @@
 ## Analysis code for rat Iso-Seq publication
 
+### Integrative analysis of Iso-Seq and RNA-seq reveals dynamic changes of alternative promoter, alternative splicing and alternative polyadenylation during Angiotensin II-induced senescence in rat primary aortic endothelial cells. Frontiers in genetics. 2023.
+
 Haimei Wen, Wei Chen, Gang Wei* and Ting Ni*. Integrative analysis of Iso-Seq and RNA-seq reveals dynamic changes of alternative promoter, alternative splicing and alternative polyadenylation during Angiotensin II induced senescence in rat primary aortic endothelial cells.
 
 
